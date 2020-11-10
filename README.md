@@ -19,7 +19,7 @@ If you are opting out of career services, this is _still a required assignment_.
 3. [Updated Resume](#updated-resume)
 4. [Updated LinkedIn](#updated-linkedin)
 ## Updated Portfolio
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
+💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
 Your updated portfolio should contain the following:
 1. Your full name
 2. Links to your GitHub profile & LinkedIn page as well as your email address and phone number
